@@ -39,6 +39,7 @@ export default function About() {
                     <p className="team-card-description">Ut enim ad minim veniam, quis nostrud exercitation ullamco </p>
                     {/* <button type="" className='btn btn-primary d-flex justify-content-center' >View profile</button> */}
                     <Link to="/siddesh" className='btn btn-primary d-flex justify-content-center mx-5'>View profile</Link>
+                    
                 </div>
             </div>
         </div>
