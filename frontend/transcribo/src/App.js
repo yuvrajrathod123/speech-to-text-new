@@ -63,6 +63,7 @@ function App() {
                 <Route path="/yuvraj" element={<Profile/>} />
                 <Route path="/siddesh" element={<Profile2 />} />
                 <Route path="/prasad" element={<Profile1/>} />
+                <Route path="/manish" element={<Profile1/>} />
 
                 {/* Add more routes as needed */}
             </Routes>
